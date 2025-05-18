@@ -15,7 +15,7 @@ import { CartService } from '../../services/cart.service';
           <div class="logo">
             <a routerLink="/">
               <span class="logo-icon"><i class="fas fa-book-open"></i></span>
-              <span class="logo-text">BookHaven</span>
+              <span class="logo-text">Book-O-Pedia</span>
             </a>
           </div>
 

@@ -79,7 +79,7 @@ import { RouterLink } from '@angular/router';
                 <img src="https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=600" 
                   alt="Emily Johnson">
               </div>
-              <h3>Emily Johnson</h3>
+              <h3>Aruva Tejasree</h3>
               <p class="member-title">Founder & CEO</p>
               <p class="member-bio">Former literature professor with a passion for making great books accessible to everyone.</p>
             </div>
@@ -88,7 +88,7 @@ import { RouterLink } from '@angular/router';
                 <img src="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=600" 
                   alt="Michael Chen">
               </div>
-              <h3>Michael Chen</h3>
+              <h3>Tarakeswar</h3>
               <p class="member-title">Chief Curator</p>
               <p class="member-bio">Lifelong book collector with an uncanny ability to recommend the perfect read.</p>
             </div>
@@ -97,7 +97,7 @@ import { RouterLink } from '@angular/router';
                 <img src="https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=600" 
                   alt="Sophia Rodriguez">
               </div>
-              <h3>Sophia Rodriguez</h3>
+              <h3>Vallusha Nikkam P</h3>
               <p class="member-title">Community Manager</p>
               <p class="member-bio">Literary event coordinator who loves connecting readers with authors.</p>
             </div>
@@ -106,7 +106,7 @@ import { RouterLink } from '@angular/router';
                 <img src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=600" 
                   alt="David Walker">
               </div>
-              <h3>David Walker</h3>
+              <h3>Jatin Joshi</h3>
               <p class="member-title">Technology Director</p>
               <p class="member-bio">Tech enthusiast who ensures our online experience is as delightful as visiting a physical bookstore.</p>
             </div>
